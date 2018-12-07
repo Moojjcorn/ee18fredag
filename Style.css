@@ -1,0 +1,28 @@
+body {
+	background-color: white;
+}
+
+main {
+	width: 90%;
+	margin: 0 auto;
+	background-color: white; 
+}
+
+header {
+	width: 25%; 
+	float: left;
+	background-color: purple;
+	height: 100vh
+}
+#a {
+	width: 75%;
+	margin-left: 25%;
+	background-color: white;
+	height: 100vh
+}
+#b {
+	width: 100%;
+	margin-left: 0%;
+	background-color: purple;
+	height: 100vh
+}
